@@ -18,7 +18,7 @@
       </button>
       <ul class="navbar_nav">
         <li class="nav-item active">
-          <a href="/likes">좋아요일</a>
+          <a href="/likes">좋아요</a>
         </li>
         <li class="nav-item">
           <a href="/cart" target="_blank">장바구니</a>
@@ -27,7 +27,7 @@
           <a target="_blank" @click="logout">로그아웃</a>
         </li>
         <li class="nav-item" v-if="!isAuthenticated">
-          <a target="_blank" href="/login">로그인</a>
+          <a target="_blank" href="/login">로그인 대체 몇번째냐아아아</a>
         </li>
       </ul>
     </div>
