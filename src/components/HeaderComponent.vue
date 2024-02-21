@@ -18,7 +18,7 @@
       </button>
       <ul class="navbar_nav">
         <li class="nav-item active">
-          <a href="/likes">좋아요일거야아아아아아아아아아아</a>
+          <a href="/likes">좋아요일</a>
         </li>
         <li class="nav-item">
           <a href="/cart" target="_blank">장바구니</a>
